@@ -1,0 +1,44 @@
+﻿$以下是后台页面name规范：
+
+login.html         			==>登录页面
+index.html         			==>首页
+	|-info.html			==>网站设置页面
+	
+	|-pass.html    			==>个人设置	
+
+	|-Administrator.html		==>超级管理员
+	|-add-user.html			==>添加用户
+	|-amend-user.html			==>修改用户
+
+	|-adv.html			==>轮播图页面
+	|-amend-advTitle.html		==>修改轮播图标题
+	|-addAdv-title.html			==>添加轮播图标题
+	|-addadv.html			==>添加轮播图片
+	|-amend-adv.html			==>修改轮播图片
+
+	|-book.html			==>留言管理
+	|-more-book.html			==>留言查看更多
+	|-reply-book.html			==>留言回复
+	
+	|-column.html			==>栏目管理
+	|-Add-column.html			==>添加一级栏目
+	|-public.html			==>修改一级栏目
+	|-AddSon-column.html		==>添加子栏目
+	|-publicSon-column.html		==>修改子栏目
+
+	|-list.html			==>内容管理
+	|-add-content.html			==>添加内容
+	|-amend-content.html		==>修改内容
+
+
+
+
+
+$以下是前台页面name规范：
+index.html				==>首页
+header.html				==>头部内容
+footer.html				==>底部内容
+show.html				==>所有的详情页
+news.html				==.新闻列表页
+case.html				==>案例展示列表页
+
